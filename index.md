@@ -2,8 +2,9 @@
 layout: home
 current: home
 cover: assets/images/pencil.jpeg
-title: Rahi Delvi - Home
+title: rahi delvi
 navigation: true
+logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
