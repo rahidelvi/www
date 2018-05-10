@@ -2,8 +2,8 @@
 layout: page
 current: about
 cover: assets/images/desk.jpeg
-title: about
-description: learn | adapt | advance
+title: rahi delvi
+description: social profit technology advisor
 navigation: true
 class: page-template
 subclass: 'post page'

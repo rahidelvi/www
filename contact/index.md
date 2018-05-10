@@ -2,8 +2,8 @@
 layout: page
 current: contact
 cover: assets/images/contact.jpg
-title: contact
-description: Here are a few ways to get in touch
+title: rahi delvi
+description: social profit technology advisor
 navigation: true
 class: page-template
 subclass: 'post page'
