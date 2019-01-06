@@ -9,4 +9,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-I'm an accidental-tech fortunate to be working in the social profit space. My day job is at **[Grantbook](https://www.grantbook.org/)** where I consult on cloud based technology planning and implementation projects for philanthropies, nonprofits, and social enterprises. Outside work, you'll find me learning, volunteering and tinkering with new applications.
+I'm an technologist fortunate to be working in the social profit space. My day job is at **[Social Profit Practitioners](https://www.socialprofit.us/)** where I help leaders in small philanthropies, charities, and social enterprises maximize their team's knowledge capacity and know-how around modern digital systems and processes so they're moving the needle on their incredible social missions. Outside work, you'll find me learning, volunteering and tinkering with new applications.
