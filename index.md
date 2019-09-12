@@ -17,10 +17,16 @@ Thanks for visiting my little spot on the web. Here you’ll find a few links to
 
 My thoughts on online privacy were naively [this][1] plus [this][2]. What are your thoughts?
 
-[Do you want updates? Feedback to share? You've also checked the other links on the page, right?][3] You know, the stuff from my footprint on the web? ☝ https://listed.to/@rahi
+[Do you want updates? Feedback to share? You've also checked the other links on the page, right?][3]
+
+[My journal on the Qur'an and related stuff is here][4].
+
+
+<div style="display:flex;justify-content:center;align-items:center;width:300px;">☝</div>
 
 Peace.
 
 [1]: https://www.socialprofit.us
 [2]: https://youtu.be/VUwBcTgzbtU?t=2291
 [3]: https://forms.gle/1kiATpYrf1tgAyz88
+[4]: https://listed.to/@rahi
