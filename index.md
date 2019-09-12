@@ -11,15 +11,15 @@ subclass: 'post page'
 
 In the name of God, the almighty, the merciful.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7z45FT3RRVc?start=892" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been Instagram thing, Qur'an stuff, and general musings.
 
-My thoughts on online privacy were naively [this][1] plus [this][2]. What are your thoughts?
+My thoughts on online privacy were naively [this][1] plus lately [this][2] as well.
 
-[Do you want updates? Feedback to share? You've also checked the other links on the page, right?][3]
+**`[Schedule a meeting🛎][5]`** if you would like to meet.
 
-[My journal on the Qur'an and related stuff is here][4].
+**[`I just have a question`][3]**
+
+**[`I'm here for the Qur'an stuff`][4]**
 
 
 <div style="display:flex;justify-content:center;align-items:center;width:300px;">☝</div>
@@ -30,3 +30,4 @@ Peace.
 [2]: https://youtu.be/VUwBcTgzbtU?t=2291
 [3]: https://forms.gle/1kiATpYrf1tgAyz88
 [4]: https://listed.to/@rahi
+[5]: https://vyte.in/rahi
