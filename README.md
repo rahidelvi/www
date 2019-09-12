@@ -12,7 +12,7 @@ Lots of folks to thank who helped me get my websites off the ground.
 - All that Google, Slack stuff..., the design is next level
 - God..., Good God, [please don't forget God][1] (_[Audio][2]_)
 
-I take quesiton on some form or the other, and provide my details to many such providers. "Tech stack" in 2019 parlance. _Strange 🥖🇫🇷_.
+I take quesitons on some form or the other, and provide my details to many such providers. I try to be discerning. "Tech stack" in 2019 parlance. _Strange 🥖🇫🇷_.
 
 ✌
 
