@@ -2,7 +2,7 @@ Glory to God. The "internet" 😱.
 
 Seriously. Al'hamdulilah.
 
-Lots of folks to thank who helped me get my websites off the ground.
+[Lots of folks] to thank who helped me get my websites off the ground.
 
 ---
 
@@ -16,5 +16,9 @@ I take quesitons on some form or the other, and provide my details to many such 
 
 ✌
 
+[Are you on YouTube?][3]
+
 [1]: https://www.free-minds.org/quran/PM/55
 [2]: https://youtu.be/Tyecd087DbY
+[3]: https://youtu.be/7z45FT3RRVc
+[4]: https://www.socialprofit.us/privacy
