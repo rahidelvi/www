@@ -2,7 +2,7 @@ Glory to God. The "internet" 😱.
 
 Seriously. Al'hamdulilah.
 
-[Lots of folks] to thank who helped me get my websites off the ground.
+[Lots of folks][4] to thank who helped me get my websites off the ground.
 
 ---
 
