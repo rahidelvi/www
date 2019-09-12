@@ -9,6 +9,15 @@ class: page-template
 subclass: 'post page'
 ---
 
-Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been reading about and tweeting about. Follow links on the top to get in touch or sample posts from my scrapbook.
+In the name of God, the almighty, the merciful.
 
-Do you want to get these updates? You know, the stuff from my footprint on the web? ☝ https://listed.to/@rahi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7z45FT3RRVc?start=892" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been Instagram thing, Qur'an stuff, and general musings.
+
+My thoughts on online privacy were naively [this][1] plus [this][2]. What are your thoughts?
+
+[Do you want updates? Feedback to share? You've also checked the other links on the page, right?][] You know, the stuff from my footprint on the web? ☝ https://listed.to/@rahi
+
+[1]: https://www.socialprofit.us
+[2]: https://youtu.be/VUwBcTgzbtU?t=2291
