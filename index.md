@@ -10,3 +10,5 @@ subclass: 'post page'
 ---
 
 Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been reading about and tweeting about. Follow links on the top to get in touch or sample posts from my scrapbook.
+
+Do you want to get these updates? You know, the stuff from my footprint on the web? ☝ https://listed.to/@rahi
