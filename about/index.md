@@ -13,7 +13,7 @@ subclass: 'post page'
 
 **play?** Maybe you're in the right place. God knows best.
 
-Will you visit again? 👉 [Google Form]][2] 👈 aka, Android, Google search obviously, and a load of other things from what I understand. You can learn more about what I [used to think about privacy as of Jan 2019][3]. Today is Sep 2019. [GitHub][4] has the exact details. Peace.
+Will you visit again? 👉 [Google Form][2] 👈 aka, Android, Google search obviously, and a load of other things from what I understand. You can learn more about what I [used to think about privacy as of Jan 2019][3]. Today is Sep 2019. [GitHub][4] has the exact details. Peace.
 
 _Claire_, for whenever you get this..., I hope it puts a smile on your face. Cmok.
 
