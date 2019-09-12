@@ -3,7 +3,7 @@ layout: page
 current: about
 cover: assets/images/desk.jpeg
 title: rahi delvi
-description: small social profit leadership advisor
+description: social benefit advisor
 navigation: true
 class: page-template
 subclass: 'post page'
