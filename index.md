@@ -15,7 +15,7 @@ Thanks for visiting my little spot on the web. Here you’ll find a few links to
 
 My thoughts on online privacy were naively [this][1] plus lately [this][2] as well.
 
-**`[Schedule a meeting🛎][5]`** if you would like to meet.
+**[`Schedule a meeting🛎`][5]** if you would like to meet.
 
 **[`I just have a question`][3]**
 
