@@ -9,18 +9,17 @@ class: page-template
 subclass: 'post page'
 ---
 
-I did some [tech consulting][1] in the past. Right now, I'm exploring the Qur'an, Islam, and other questions about daily life in Toronto, Canada.
+["work"][1]
 
-My name means _traveller_, I've been told.
+**play?** Maybe you're in the right place. God knows best.
 
-Welcome to my site. Really, I just keep the place.
-
-Netlify, Microsoft, Google, and I'm sure so many others, thanks for your help. This toolset you've provided many of us, is an amazing start.
-
-May God bless all of your journeys.
+Will you visit again? 👉 [Google Form]][2] 👈 aka, Android, Google search obviously, and a load of other things from what I understand. You can learn more about what I [used to think about privacy as of Jan 2019][3]. Today is Sep 2019. [GitHub][4] has the exact details. Peace. 
 
 Peace ✌
 
 
 
 [1]: https://linkedin.com/in/rahidelvi
+[2]: https://forms.gle/1kiATpYrf1tgAyz88
+[3]: https://www.socialprofit.us/privacy
+[4]: https://github.com/rahidelvi
