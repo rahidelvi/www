@@ -15,15 +15,13 @@ My thoughts on online privacy were naively [this][1] and lately (2019) mixed wit
 
 Wait..., you might be asking, I want to do something. Great! Here are a few options.
 
-<div style="display:flex;justify-content:center;align-items:center;width:300px;">
-
 **[`🛎 Schedule a meeting`][5]** if you would like to meet.
 
 **[`🙋 Ask a question`][3]** really about anything. I'll answer if I can or refer you to someone who knows more if I can't.
 
 **[`🎅 Sample 'Islamist' banter`][4]**
 
-
+<div style="display:flex;justify-content:center;align-items:center;width:300px;">
 ☝
 </div>
 
