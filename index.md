@@ -9,20 +9,23 @@ class: page-template
 subclass: 'post page'
 ---
 
-In the name of God, the almighty, the merciful.
+Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been posting to Instagram, Twitter and LinkedIn, plus a bit of Qur'an stuff, and general musings. Good old fashioned personal website, flaws and all.
 
-Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been Instagram thing, Qur'an stuff, and general musings.
+My thoughts on online privacy were naively [this][1] and lately (2019) mixed with [this][2] as well.
 
-My thoughts on online privacy were naively [this][1] plus lately [this][2] as well.
+Wait..., you might be asking, I want to do something. Great! Here are a few options.
 
-**[`Schedule a meeting🛎`][5]** if you would like to meet.
+<div style="display:flex;justify-content:center;align-items:center;width:300px;">
 
-**[`I just have a question`][3]**
+**[`🛎 Schedule a meeting`][5]** if you would like to meet.
 
-**[`I'm here for the Qur'an stuff`][4]**
+**[`🙋 Ask a question`][3]** really about anything. I'll answer if I can or refer you to someone who knows more if I can't.
+
+**[`🎅 Sample 'Islamist' banter`][4]**
 
 
-<div style="display:flex;justify-content:center;align-items:center;width:300px;">☝</div>
+☝
+</div>
 
 Peace.
 
