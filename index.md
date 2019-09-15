@@ -9,23 +9,24 @@ class: page-template
 subclass: 'post page'
 ---
 
-Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been posting to Instagram, Twitter and LinkedIn, plus a bit of Qur'an stuff, and general musings. Good old fashioned personal website, flaws and all.
+☝ Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been posting to Instagram, Twitter and LinkedIn, _and_ a whole bunch of other links from stuff I'm up to on the web. Lots of ways to get in touch.
 
-My thoughts on online privacy were naively [this][1] and lately (2019) mixed with [this][2] as well.
+My thoughts on online privacy was naively [this][1] and lately mixed with [this][2].
 
-Wait..., you might be asking, I want to do something. Great! Here are a few options.
+You're welcome to
 
-**[`🛎 Schedule a meeting`][5]** if you would like to meet.
+- **[`🛎 Schedule a meeting`][5]** if there's something important you want to talk about.
 
-**[`🙋 Ask a question`][3]** really about anything. I'll answer if I can or refer you to someone who knows more if I can't.
+- **[`🙋 Ask a question`][3]** about anything really. I'll answer if I know _or_ refer you to someone who knows more.
 
-**[`🎅 Sample 'Islamist' banter`][4]**
+- **[`🎅 Sample 'Islamist' banter`][4]** from my other journal?
+
+- Just plain poke around, click on something interesting, and bounce off this page 👋
 
 <div style="display:flex;justify-content:center;align-items:center;width:300px;">
-☝
+Peace ✌.
 </div>
 
-Peace.
 
 [1]: https://www.socialprofit.us
 [2]: https://youtu.be/VUwBcTgzbtU?t=2291
