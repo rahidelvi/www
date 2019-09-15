@@ -18,18 +18,20 @@ In other news...
 - Quran follower (I try)
     - Some of my thoughts are [on YouTube][2]
     - Others are in [this journal][3]
-    - This topic is a vast and fascinating
+    - This topic is vast and _**incredibly fascinating**_
 
 - "Tech consultant"
     - Managing multi-faceted projects are fun, some of them anyway
-    - Worked mostly with philanthropies, nonprofits and "social enterprises"
+    - Worked primarily with philanthropies, nonprofits and "social enterprises"
+    - This world is somewhat familiar to me, not the upper echelons obviously, but the opps and systems and things
+    - Love small, mission driven and hacky teams
 
 - Company founder attempter
     - I'm currently exploring the lively business of death and dying with a _knowledge management_ and agency lens
     - Seriously 😱
     - Curious? [Let's talk 📞][4]
 
-No such thing as **"[normal eccentric][5]"** is there? 🤔
+No such thing as **"[normal eccentric][5]"** is there? 🤔 Is there?
 
 
 [1]: https://linkedin.com/in/rahidelvi
