@@ -9,7 +9,9 @@ class: page-template
 subclass: 'post page'
 ---
 
-☝ Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been posting to Instagram, Twitter and LinkedIn, _and_ a whole bunch of other links from stuff I'm up to on the web. Lots of ways to get in touch.
+☝
+
+Thanks for visiting my little spot on the web. Here you’ll find a few links to what I’ve been posting to Instagram, Twitter and LinkedIn, _and_ a whole bunch of links from stuff I've been to on the web.
 
 My thoughts on online privacy was naively [this][1] and lately mixed with [this][2].
 
@@ -21,12 +23,11 @@ You're welcome to
 
 - **[`🎅 Sample 'Islamist' banter`][4]** from my other journal?
 
-- Just plain poke around, click on something interesting, and bounce off this page 👋
+_Or_, just plain poke around, click on something interesting, and bounce off this page.
 
-<div style="display:flex;justify-content:center;align-items:center;width:300px;">
-Peace ✌.
-</div>
+👋
 
+✌
 
 [1]: https://www.socialprofit.us
 [2]: https://youtu.be/VUwBcTgzbtU?t=2291

@@ -9,19 +9,26 @@ class: page-template
 subclass: 'post page'
 ---
 
-["work"][1]
+My ["work"][1] stuff is on LinkedIn. Sorta. I've always found it hard to talk about my work history on LinkedIn. It could use some help sprucing it up for sure. Know anyone?
 
-**play?** Maybe you're in the right place. God knows best.
+Other than that...
 
-Will you visit again? 👉 [Google Form][2] 👈 aka, Android, Google search obviously, and a load of other things from what I understand. You can learn more about what I [used to think about privacy as of Jan 2019][3]. Today is Sep 12, 2019. [GitHub][4] has the entry I believe. Peace.
+- Dad to a 3 year old and counting
 
-_Claire_, for whenever you get this..., I hope it puts a smile on your face. Cmok.
+- Quran follower (I try)
 
-Peace ✌
+- "Tech consultant"
+    - Managing multi-faceted projects are fun, some of them anyway
+    - Worked mostly with philanthropies, nonprofits and "social enterprises"
 
+- Company founder attempter
+    - I'm currently exploring the lively business of death and dying
+    - Seriously 😱
+    - Curious? [Let's talk 📞][2]
+
+No such thing as **"[normal eccentric][3]"** is there? 🤔
 
 
 [1]: https://linkedin.com/in/rahidelvi
-[2]: https://forms.gle/1kiATpYrf1tgAyz88
-[3]: https://www.socialprofit.us/privacy
-[4]: https://github.com/rahidelvi
+[2]: https://vyte.in/rahi
+[3]: https://blog.rahidelvi.ca
