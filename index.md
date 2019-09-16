@@ -9,8 +9,6 @@ class: page-template
 subclass: 'post page'
 ---
 
-✌
-
 Thanks for visiting my little spot on the web. Here you’ll find links to what I’ve been posting on Instagram, Twitter, LinkedIn, _and_ a few other places on the web.
 
 My thoughts on online privacy is presently a mix of [this][1] and lately, [this][2]. I also naively believe that choices matter. 
