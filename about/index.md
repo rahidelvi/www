@@ -9,7 +9,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-My ["work"][1] stuff is on LinkedIn. Sorta. I've always found it hard to talk about my work history there. It could use some sprucing up for sure. Know anyone?
+My **[work][1]** stuff is on LinkedIn. Sorta. I've always found it hard to talk about my work history there. It could use some sprucing up for sure. Know anyone?
 
 In other news...
 
