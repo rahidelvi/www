@@ -23,7 +23,7 @@ In other news...
 - "Tech consultant"
     - Managing multi-faceted projects are fun, some of them anyway
     - Worked primarily with philanthropies, nonprofits and "social enterprises"
-    - This world is somewhat familiar to me, not the upper echelons obviously, but the opps and systems and things
+    - This world is somewhat familiar to me, not the upper echelons obviously, but the ops and systems and things
     - Love small, mission driven and hacky teams
 
 - Company founder attempter
